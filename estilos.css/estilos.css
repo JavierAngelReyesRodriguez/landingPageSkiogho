@@ -1,0 +1,306 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+	background-color: white
+}
+body{
+	width: 1500px;
+	height: 1800px;
+	margin: auto;
+	background-color: #FFC432;
+}
+header#titulo{
+	width: 500px;
+	height: 80px;
+	background: #ffaa22;
+	/*!border: 5px solid #000000; */
+  	float: left;
+	text-align: center;
+}
+section#seccion1
+{ 
+	width: 200px;
+	height: 80px;
+    background: #ffaa22;
+	color: white;
+	float: right;
+	text-align: center;
+
+}
+section#seccion12
+{ 
+	width: 200px;
+	height: 80px;
+    background: #ffaa22;
+	color: white;
+	float: right;
+	text-align: center;
+}
+section#seccion13
+{ 
+	width: 200px;
+	height: 80px;
+    background: #ffaa22;
+	color: white;
+	float: right;
+	text-align: center;
+
+}
+section#seccion14
+{ 
+	width: 200px;
+	height: 80px;
+    background: #ffaa22;
+	color: white;
+	float: right;
+	text-align: center;
+}
+section#seccion15
+{ 
+	width: 200px;
+	height: 80px;
+    background: #ffaa22;
+	color: white;
+	float: right;
+	text-align: center;
+}
+aside#posicion1{
+	width: 1500px;
+	height: 40px;
+	padding: 5px;
+	background: #28A3FE;
+	color: black;
+	float: right;
+	text-align: center;
+}
+
+aside#producto1{
+	width: 490px;
+	height: 400px;
+	padding: 5px;
+	float: left;
+	text-align: center;
+}
+aside#producto2{
+	width: 490px;
+	height: 400px;
+	padding: 5px;
+	float: left;
+	text-align: center;
+}
+aside#producto3{
+	width: 490px;
+	height: 400px;
+	padding: 5px;
+	float: right;
+	text-align: center;
+}
+article#infopro1{
+	width: 490px;
+	height: 200px;
+	margin: 4px;
+	border-right-width: 3px;
+	border-left-width: 3px;
+	border-right-color: black;
+	border-left-color:black;
+	float: left;
+	text-align: center;
+}
+article#infopro2{
+	width: 490px;
+	height: 200px;
+	margin: 4px;
+	border-right-width: 3px;
+	border-left-width: 3px;
+	border-right-color: black;
+	border-left-color:black;
+	float: left;
+	text-align: center;
+}
+article#infopro3{
+	width: 490px;
+	height: 200px;	
+	border-right-width: 3px;
+	border-left-width: 3px;
+	margin: 4px;
+	border-right-color: black;
+	border-left-color:black;
+	float: right;
+	text-align: center;
+}
+aside#posicion2{
+	width: 1500px;
+	height: 35px;
+	padding: 10px;
+	background: white;
+	color: #C19C2C;
+	float: right;
+	text-align: center;
+}
+article#desc{
+	width: 990px;
+	height: 270px;
+	float: left;
+	margin: 4px;
+}
+article#desc2{
+	width: 490px;
+	height: 270px;
+	float: right;
+	margin: 4px;
+}
+aside#posicion3{
+	width: 1500px;
+	height: px;
+	padding: 10px;
+	background: #F4F813;
+	color: black;
+	float: right;
+	text-align: center;
+}
+article#dire{
+	width: 590px;
+	height: 350px;
+	float: left;
+	margin: 4px;
+}
+article#direinfo{
+	width: 490px;
+	height: 350px;
+	float: left;
+	margin: 4px;
+}
+article#dire2{
+	width: 390px;
+	height: 350px;
+	float: right;
+	margin: 4px;
+}
+aside#posicion4{
+	width: 1500px;
+	height: 35px;
+	padding: 10px;
+	background: #32F9BC;
+	color: white;
+	float: right;
+	text-align: center;
+}
+/*!
+#menu li{
+	display: inline-block;
+	list-style: none;
+	padding: 7px;
+	border-radius: 15px;
+	font: bold 14px verdana, sans-serif;
+	color: black;
+	width: 150px;
+	margin-left: 100px;
+	text-align: center;
+	background: #1CD1D6;
+	border: 3px solid #000000;
+}
+section#seccion2{
+	width: 700px;
+	height: 25px;
+    background-color: lavender;
+    text-align: center;
+}
+img#img3{
+	width: 100px;
+	height: 80px;
+}
+img#img4{
+	width: 100px;
+	height: 80px;
+}
+img#img5{
+	width: 100px;
+	height: 80px;
+}
+article#informacion{
+	width: 700px;
+	height: 80px;
+	background-color: pink;
+}
+main#formulario{
+	width: 700px;
+	height: 240px;
+}
+aside#infoproduct{
+    width: 400px;
+	height: 240px;
+	background-color: coral;
+	float: left;
+}
+aside#formu{
+    width: 300px;
+	height: 240px;
+	background-color: salmon;
+	float: right;
+}
+article#testimonios1{
+	width: 233.3px;
+	height: 100px;
+	background-color: lavender;
+	text-align: center;
+	float: left;
+}
+article#testimonios2{
+	width: 233.3px;
+	height: 100px;
+	background-color: lavender;
+	text-align: center;
+	float: left;
+}
+article#testimonios3{
+	width: 233.3px;
+	height: 100px;
+	background-color: lavender;
+	text-align: center;
+	float: left;
+}
+aside#beneficios{
+    width: 350px;
+	height: 175px;
+	float: left;
+	background-color: yellow;
+}
+aside#imagenpapeleria{
+    width: 350px;
+	height: 175px;
+	float: right;
+	background-color: royalblue;
+}
+main#tercermain{
+    width: 700px;
+	height: 400px;
+}
+aside#imagenx{
+    width: 250px;
+	height: 220px;
+	float: left;
+	background-color: beige;
+}
+img#img2{
+	width: 250px;
+	height: 220px;
+}
+aside#eslogan{
+    width: 450px;
+	height: 220px;
+	float: right;
+	background-color: green;
+	text-align: center;
+}*/
+footer{
+	width: 1500px;
+	height: 190px;
+    clear: both;
+	text-align: center;
+	border-top: 7px solid #ffaa22;
+	background: #25608C;
+	color: white;
+}
+
